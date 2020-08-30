@@ -1,0 +1,4 @@
+#Sun Aug 30 01:49:04 EDT 2020
+base.0=/Users/ivan/AndroidStudioProjects/Top10Downloader/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

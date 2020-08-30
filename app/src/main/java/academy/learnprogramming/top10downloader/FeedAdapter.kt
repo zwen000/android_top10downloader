@@ -20,8 +20,6 @@ class FeedAdapter(context: Context, private val resource: Int, private val appli
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {
 //        Log.d(TAG, "getView() called")
-
-//        return super.getView(position, convertView, parent)
         val view:View
         val viewHolder:ViewHolder
 
@@ -45,7 +43,6 @@ class FeedAdapter(context: Context, private val resource: Int, private val appli
     }
 
     override fun getCount(): Int {
-//        return super.getCount()
 //        Log.d(TAG, "getCount() called")
         return applications.size
     }

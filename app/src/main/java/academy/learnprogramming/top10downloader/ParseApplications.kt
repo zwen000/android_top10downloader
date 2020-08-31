@@ -1,6 +1,5 @@
 package academy.learnprogramming.top10downloader
 
-import android.service.autofill.TextValueSanitizer
 import android.util.Log
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserFactory

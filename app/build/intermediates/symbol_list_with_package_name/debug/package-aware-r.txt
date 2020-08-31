@@ -766,6 +766,7 @@ id edit_query
 id end
 id expand_activities_button
 id expanded_menu
+id feedTitle
 id forever
 id gone
 id group_divider
@@ -790,6 +791,7 @@ id mnu10
 id mnu25
 id mnuFree
 id mnuPaid
+id mnuRefresh
 id mnuSongs
 id mnugrpLimit
 id multiply
